@@ -16,6 +16,7 @@
 # Detalhes 
 
 Projeto front-end responsivo (disponível para a versão mobile) desenvolvido para apresentar meus projetos, meus parendizados e objetivos de carreira, como atualmente, desenvolvedora júnior. Dessa forma é mais fácil conhecer as tecnologias que eu domino, a forma como eu desenvolvo os projetos e qual o meu momento profissional. 
+Acesse o projeto por aqui: https://emilynsfer.github.io/Site-pessoal.github.io/
 
 # Tópicos 
 
